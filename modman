@@ -1,0 +1,5 @@
+app/code/local/Magmodules/Sortbydate            app/code/local/Magmodules/Sortbydate
+app/etc/modules/Magmodules_Sortbydate.xml            app/etc/modules/Magmodules_Sortbydate.xml
+app/locale/en_US/Magmodules_Sortbydate.csv            app/locale/en_US/Magmodules_Sortbydate.csv
+app/locale/nl_NL/Magmodules_Sortbydate.csv            app/locale/nl_NL/Magmodules_Sortbydate.csv
+app/design/frontend/base/default/layout/magmodules_sortbydate.xml            app/design/frontend/base/default/layout/magmodules_sortbydate.xml
